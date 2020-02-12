@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831586801026",
+    "firebase_url": "https://push-notification-73258.firebaseio.com",
+    "project_id": "push-notification-73258",
+    "storage_bucket": "push-notification-73258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831586801026:android:e0d9aa64ad7537ce",
+        "android_client_info": {
+          "package_name": "fahim.doa.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831586801026-m2p5s9hij5c06m2ua2kmndqboaiv7o6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbxaoqJjfTpd29MeALPW6hVjMc9y1Lw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
